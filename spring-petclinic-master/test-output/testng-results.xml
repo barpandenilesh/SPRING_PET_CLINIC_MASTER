@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="PetclinicOwner" duration-ms="35000" started-at="2018-03-18T11:31:47Z" finished-at="2018-03-18T11:32:22Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="35000" started-at="2018-03-18T11:31:47Z" finished-at="2018-03-18T11:32:22Z">
+      <class name="Newowner.annotation.TestExcelData">
+        <test-method status="PASS" signature="setup()[pri:0, instance:Newowner.annotation.TestExcelData@6366ebe0]" name="setup" is-config="true" duration-ms="13282" started-at="2018-03-18T17:01:47Z" finished-at="2018-03-18T17:02:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Addownertest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Newowner.annotation.TestExcelData@6366ebe0]" name="Addownertest" duration-ms="5035" started-at="2018-03-18T17:02:01Z" data-provider="getTesdata" finished-at="2018-03-18T17:02:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kjhjk]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[lj]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ojl]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[kjk]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[44]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Addownertest -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:Newowner.annotation.TestExcelData@6366ebe0]" name="setup" is-config="true" duration-ms="11083" started-at="2018-03-18T17:02:06Z" finished-at="2018-03-18T17:02:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Addownertest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Newowner.annotation.TestExcelData@6366ebe0]" name="Addownertest" duration-ms="4711" started-at="2018-03-18T17:02:17Z" data-provider="getTesdata" finished-at="2018-03-18T17:02:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[khjjk]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[nbvbn]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[bm]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[mm]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[32]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Addownertest -->
+      </class> <!-- Newowner.annotation.TestExcelData -->
+    </test> <!-- Test -->
+  </suite> <!-- PetclinicOwner -->
+</testng-results>
