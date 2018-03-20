@@ -19,8 +19,8 @@ public class testUtility
 
 {
 	
-	public static long PAGE_LOAD_TIMEOUT = 22;
-	public static long IMPLICIT_WAIT = 22;
+	public static long PAGE_LOAD_TIMEOUT = 24;
+	public static long IMPLICIT_WAIT = 24;
 	
 	public static String TESTDATA_SHEET_PATH = "D:\\SPRING_PET_CLINIC_MASTER\\spring-petclinic-master\\src\\test\\java\\com\\testdata\\OwnerData - Copy.xls";
 	static Workbook wb;
