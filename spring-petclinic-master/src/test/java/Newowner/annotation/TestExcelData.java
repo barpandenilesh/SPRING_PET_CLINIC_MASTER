@@ -15,9 +15,7 @@ import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 import org.thymeleaf.context.IWebContext;
-
-import com.testutility.testUtility;
-public class TestExcelData
+public class TestExcelData extends testUtility
 {
 	WebDriver driver;
 	public String SheetName="sheet2";
