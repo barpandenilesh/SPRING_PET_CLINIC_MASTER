@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="188607" started-at="2018-03-26T04:54:24Z" finished-at="2018-03-26T04:57:33Z">
+  <suite name="Default suite" duration-ms="124562" started-at="2018-03-27T09:05:38Z" finished-at="2018-03-27T09:07:42Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="188607" started-at="2018-03-26T04:54:24Z" finished-at="2018-03-26T04:57:33Z">
+    <test name="Default test" duration-ms="124562" started-at="2018-03-27T09:05:38Z" finished-at="2018-03-27T09:07:42Z">
       <class name="Newowner.annotation.TestExcelData">
-        <test-method status="PASS" signature="setup()[pri:0, instance:Newowner.annotation.TestExcelData@76b10754]" name="setup" is-config="true" duration-ms="105369" started-at="2018-03-26T10:24:26Z" finished-at="2018-03-26T10:26:12Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:Newowner.annotation.TestExcelData@76b10754]" name="setup" is-config="true" duration-ms="80719" started-at="2018-03-27T14:35:39Z" finished-at="2018-03-27T14:37:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="Addownertest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Newowner.annotation.TestExcelData@76b10754]" name="Addownertest" duration-ms="39130" started-at="2018-03-26T10:26:12Z" data-provider="getTesdata" finished-at="2018-03-26T10:26:51Z">
+        <test-method status="PASS" signature="Addownertest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Newowner.annotation.TestExcelData@76b10754]" name="Addownertest" duration-ms="17736" started-at="2018-03-27T14:37:00Z" data-provider="getTesdata" finished-at="2018-03-27T14:37:18Z">
           <params>
             <param index="0">
               <value>
@@ -42,11 +42,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Addownertest -->
-        <test-method status="PASS" signature="setup()[pri:0, instance:Newowner.annotation.TestExcelData@76b10754]" name="setup" is-config="true" duration-ms="31387" started-at="2018-03-26T10:26:51Z" finished-at="2018-03-26T10:27:22Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:Newowner.annotation.TestExcelData@76b10754]" name="setup" is-config="true" duration-ms="16199" started-at="2018-03-27T14:37:18Z" finished-at="2018-03-27T14:37:34Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="Addownertest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Newowner.annotation.TestExcelData@76b10754]" name="Addownertest" duration-ms="10884" started-at="2018-03-26T10:27:22Z" data-provider="getTesdata" finished-at="2018-03-26T10:27:33Z">
+        <test-method status="PASS" signature="Addownertest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Newowner.annotation.TestExcelData@76b10754]" name="Addownertest" duration-ms="8470" started-at="2018-03-27T14:37:34Z" data-provider="getTesdata" finished-at="2018-03-27T14:37:42Z">
           <params>
             <param index="0">
               <value>
